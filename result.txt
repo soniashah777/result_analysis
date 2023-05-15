@@ -1,0 +1,53 @@
+23230319   M ABDUS SAMI QAZI                                    002    184    041    086    087    417            PASS                      
+                                                                086 A2 086 A2 043 D1 077 B1 093 A1 085 C1       
+23230320   M ABHISHEK SINGH GAUTAM                              002    184    041    086    087    417            PASS                      
+                                                                087 A2 083 B1 077 B1 095 A1 095 A1 097 A2       
+
+23230321   M ALOK DWIVEDI                                       002    184    241    086    087    417            PASS                      
+                                                                050 D2 055 D1 046 C1 050 C2 064 C1 071 D1       
+23230322   M AMIT  DWIVEDI                                      002    184    041    086    087    417            PASS                      
+                                                                076 B2 077 B2 055 C1 085 A2 079 B2 089 B2       
+23230323   M ANSH YADAV                                         002    184    041    086    087           165     PASS                      
+                                                                076 B2 066 C1 064 B2 067 B2 056 C2        078 C1
+23230324   M ANSH RAJNISH RAJ SINGH                             002    184    041    086    087    417            PASS                      
+                                                                085 A2 082 B1 075 B1 095 A1 080 B1 090 B2       
+23230325   M AVIRAL PANDEY                                      002    184    041    086    087           165     PASS                      
+                                                                093 A1 089 A2 093 A1 095 A1 095 A1        094 A2
+23230326   F AWANTIKA DUBEY                                     002    184    241    086    087           165     PASS                      
+                                                                083 B1 084 A2 070 A2 080 A2 091 A2        095 A2
+23230327   F DESHNA SINGH                                       002    184    241    086    087           165     PASS                      
+                                                                077 B2 083 B1 079 A1 068 B2 076 B2        092 A2
+23230328   M HARSH PANDEY                                       002    184    041    086    087    417            PASS                      
+                                                                059 D1 068 C1 043 D1 044 D1 080 B1 077 C2       
+23230329   F HARSHITA DUGGAL                                    002    184    041    086    087    417            PASS                      
+                                                                088 A2 093 A1 062 B2 085 A2 093 A1 093 B1       
+23230330   M LAKSHYA SINHA                                      002    184    041    086    087    417            PASS                      
+                                                                075 B2 080 B1 077 B1 085 A2 080 B1 094 B1       
+
+23230331   M PARV MEHROTRA                                      002    184    041    086    087    417            PASS                      
+                                                                086 A2 082 B1 069 B2 092 A1 090 A2 092 B1       
+23230332   F PAVANI RAI                                         002    184    241    086    087    417            PASS                      
+                                                                080 B1 086 A2 088 A1 084 A2 091 A2 092 B1       
+23230333   M PREETAM KUMAR YADAV                                002    184    041    086    087    417            PASS                      
+                                                                082 B1 081 B1 060 B2 083 A2 089 A2 086 C1       
+23230334   M SACHMEET SINGH                                     002    184    041    086    087    417            PASS                      
+                                                                079 B1 082 B1 065 B2 070 B1 078 B2 092 B1       
+23230335   M SAKSHAM SINGH                                      002    184    041    086    087           165     PASS                      
+                                                                080 B1 076 B2 068 B2 065 B2 078 B2        086 B2
+23230336   M SAKSHAM TYAGI                                      002    184    041    086    087    417            PASS                      
+                                                                088 A2 084 A2 075 B1 077 B1 090 A2 095 A2       
+23230337   F SAMRIDDHI DWIVEDI                                  002    184    241    086    087    417            PASS                      
+                                                                091 A1 089 A2 099 A1 095 A1 098 A1 098 A1       
+23230338   M SUMIT MISHRA                                       002    184    241    086    087    417            PASS                      
+                                                                082 B1 075 B2 070 A2 095 A1 091 A2 095 A2       
+23230339   M TANMAY SINGH GUSAIN                                002    184    041    086    087    417            PASS                      
+                                                                079 B1 090 A1 080 A2 095 A1 094 A1 096 A2       
+23230340   M TARUN  KUKREJA                                     002    184    041    086    087    417            PASS                      
+                                                                070 C1 063 C2 052 C1 064 B2 080 B1 085 C1       
+
+23230341   M UDAY RAJPAL                                        002    184    241    086    087    417            PASS                      
+                                                                061 D1 053 D1 054 B1 048 C2 050 D1 074 D1       
+23230342   F VANSHIKA TIWARI                                    002    184    241    086    087           165     PASS                      
+                                                                078 B2 070 C1 060 A2 057 C1 073 B2        089 B1
+23230343   F LAVISHA SAINI                                      002    184    041    086    087           165     PASS                      
+                                                                087 A2 084 A2 070 B1 090 A1 097 A1        097 A1
